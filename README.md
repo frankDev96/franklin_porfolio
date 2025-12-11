@@ -1,4 +1,4 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
+<img width="1943" height="1093" alt="Franklin Samuvel Portfolio Preview" src="./public/images/portfolio-preview.png" />
 
 # DevPortfolio Template
 

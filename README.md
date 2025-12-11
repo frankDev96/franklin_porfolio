@@ -9,8 +9,8 @@ This was completely rebuilt from the ground up from V1. This template was built 
 This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy integration with your existing AI workflows.
 
 > **📬 Connect & Share!**  
-> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
-> If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
+> For questions and updates, feel free to reach out on [**GitHub**](https://github.com/frankDev96).  
+> If you've built and published your personal site with this template, I'd love to see it! Send me a message 🚀
 
 ## Preview
 
@@ -31,7 +31,7 @@ The template is designed to be easily customizable through the `src/config.ts` f
 
 - **Personal Information**: Name, title, description
 - **Accent Color**: Primary color theme (changing this will change the accent color site wide)
-- **Social Links**: Email, LinkedIn, Twitter, GitHub (all optional)
+- **Social Links**: Email, LinkedIn, GitHub (all optional)
 - **About Section**: Personal bio/description
 - **Skills**: List of technical skills
 - **Projects**: Project showcase with descriptions and links
@@ -57,7 +57,6 @@ accentColor: "#1d4ed8", // Hex color for theme
 social: {
   email: "your-email@example.com",
   linkedin: "https://linkedin.com/in/yourprofile",
-  twitter: "https://twitter.com/yourprofile", 
   github: "https://github.com/yourusername",
 }
 ```
@@ -69,7 +68,7 @@ aboutMe: "A paragraph describing yourself, your background, interests, and what 
 
 #### Skills
 ```typescript
-skills: ["JavaScript", "React", "Node.js", "Python", "AWS", "Docker"]
+skills: ["JavaScript", "React", "Node.js", "Python", "TypeScript", "MongoDB"]
 ```
 
 #### Projects
@@ -79,7 +78,7 @@ projects: [
     name: "Project Name",
     description: "Brief description of what the project does and its impact",
     link: "https://github.com/yourusername/project",
-    skills: ["React", "Node.js", "AWS"], // Technologies used
+    skills: ["React", "Node.js", "MongoDB"], // Technologies used
   }
 ]
 ```
@@ -184,4 +183,4 @@ This project is fully and completely MIT. See LICENSE.md.
 
 ## Questions?
 
-Feel free to reach out on [X (Twitter)](https://x.com/rfitzio) if you have any questions or need help.
+Feel free to reach out on [GitHub](https://github.com/frankDev96) if you have any questions or need help.
